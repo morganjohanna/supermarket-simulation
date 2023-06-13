@@ -6,24 +6,24 @@ The objective of this project was to generate a simulation of customer movement 
 ## Modules
 This repository contains:
 
-├── data
-│   ├── friday.csv
-│   ├── monday.csv
-│   ├── thursday.csv
-│   ├── tuesday.csv
-│   └── wednesday.csv
-├── eda.ipynb
-├── LICENSE
-├── output
-│   ├── df.csv
-│   ├── simulation_202306131704.csv
-│   ├── simulation_202306131719.csv
-│   ├── simulation_202306131723.csv
-│   ├── simulation_202306131727.csv
-│   └── transition_matrix.csv
-├── README.md
-├── simulator.py
-└── transition_matrix.ipynb
+├── data  
+│   ├── friday.csv  
+│   ├── monday.csv  
+│   ├── thursday.csv  
+│   ├── tuesday.csv  
+│   └── wednesday.csv  
+├── eda.ipynb  
+├── LICENSE  
+├── output  
+│   ├── df.csv  
+│   ├── simulation_202306131704.csv  
+│   ├── simulation_202306131719.csv  
+│   ├── simulation_202306131723.csv  
+│   ├── simulation_202306131727.csv  
+│   └── transition_matrix.csv  
+├── README.md  
+├── simulator.py  
+└── transition_matrix.ipynb  
 
 Of note are the following:
 - **eda.ipynb** is the initial cleaning and exploratory data analysis of the data present in the **data** directory
